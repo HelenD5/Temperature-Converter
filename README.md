@@ -16,6 +16,8 @@ A simple web-based temperature converter built using **HTML**, **CSS**, and **Ja
 ## output screenshot
 <img width="612" height="682" alt="Screenshot 2025-09-17 191806" src="https://github.com/user-attachments/assets/1088bc0c-000a-4e57-80ee-5e8e39943774" />
 
+## Live Demo
+Try it here  https://helend5.github.io/Temperature-Converter/
 ## 📚 How to Use
 1. Enter a temperature value
 2. Select the conversion type
