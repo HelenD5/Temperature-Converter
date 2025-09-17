@@ -1,0 +1,44 @@
+div {
+  background: linear-gradient(to right, #61e9d0, #4ddee3);
+  height: fit-content;
+  width: fit-content;
+  background-color: rgba(250, 251, 251, 0.938);
+  box-shadow: 5px 5px 15px rgba(57, 57, 57, 0.422);
+  padding: 15px;
+}
+
+p{
+  font-weight: bold;
+  font-size: larger;
+}
+
+#input {
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+  height: 25px;
+  width: 150px;
+  margin: 10px;
+}
+
+table {
+  font-weight: bold;
+  margin: 10px;
+}
+
+td {
+  padding: 5px;
+}
+
+button {
+  background-color: rgb(14, 197, 54);
+  color: rgb(214, 218, 222);
+  margin: 10px;
+  height: 30px;
+  font-size: larger;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(18, 162, 57);
+}

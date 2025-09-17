@@ -1,0 +1,46 @@
+<link rel="stylesheet" href="style.css">
+
+<center>
+    <div>
+
+
+        <h1>
+            Temperature Converter
+        </h1>
+
+        <input type="number" id="input"><br>
+        <form>
+            <table>
+                <tr>
+                    <td><input type="radio" id="ctof" name="converter">Celsius →Fahrenheit </td>
+                </tr>
+                <tr>
+                    <td><input type="radio" id="ftoc" name="converter">Fahrenheit → Celsius </td>
+                </tr>
+                <tr>
+                    <td><input type="radio" id="ctok" name="converter"> Celsius → Kelvin</td>
+                </tr>
+                <tr>
+                    <td><input type="radio" id="ktoc" name="converter"> Kelvin → Celsius</td>
+                </tr>
+                <tr>
+                    <td><input type="radio" id="ftok" name="converter"> Fahrenheit → Kelvin</td>
+                </tr>
+                <tr>
+                    <td><input type="radio" id="ktof" name="converter"> Kelvin → Fahrenheit</td>
+                </tr>
+
+
+            </table>
+        </form>
+
+
+        <button type="submit" id="submit" onclick="convert()">submit</button>
+
+        <p id="result"></p>
+
+    </div>
+
+</center>
+
+<script src="script.js"></script>
