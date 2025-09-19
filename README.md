@@ -14,7 +14,8 @@ A simple web-based temperature converter built using **HTML**, **CSS**, and **Ja
 - `script.js` – conversion logic
 
 ## output screenshot
-<img width="612" height="682" alt="Screenshot 2025-09-17 191806" src="https://github.com/user-attachments/assets/1088bc0c-000a-4e57-80ee-5e8e39943774" />
+<img width="749" height="804" alt="image" src="https://github.com/user-attachments/assets/d9e2a14e-8240-4e05-abd0-2373c92a1613" />
+
 
 ## Live Demo
 Try it here  https://helend5.github.io/Temperature-Converter/
