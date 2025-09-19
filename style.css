@@ -1,5 +1,6 @@
 div {
-  background: linear-gradient(to right, #61e9d0, #4ddee3);
+  margin-top:120px;
+  background: linear-gradient(to right, #eaeeee, #c0c3c3f3);
   height: fit-content;
   width: fit-content;
   background-color: rgba(250, 251, 251, 0.938);
@@ -41,4 +42,5 @@ button {
 
 button:hover {
   background-color: rgb(18, 162, 57);
+
 }
